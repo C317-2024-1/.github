@@ -1,8 +1,8 @@
-# Projeto C317 - Chatbot IWS
+# Projeto C317 - Chatbot IWS 🤖
 
 Desenvolvimento de um chatbot que através de IA consiga responder para o cliente questões mais simples como duvidas ou problemas a respeito das soluções da IWS. E
 Caso não seja encontrada uma solução, direcionar o atendimento ao técnico responsável, diminuindo assim o números de tickets a serem tratados manualmente.
-## Ferramentas Utilizadas
+## Ferramentas utilizadas:
 <div style="display: inline_block" align="center"><br>
   
 
