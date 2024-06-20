@@ -1,12 +1,21 @@
-## Hi there 👋
+# Projeto C317 - Chatbot IWS
 
-<!--
+Desenvolvimento de um chatbot que através de IA consiga responder para o cliente questões mais simples como duvidas ou problemas a respeito das soluções da IWS. E
+Caso não seja encontrada uma solução, direcionar o atendimento ao técnico responsável, diminuindo assim o números de tickets a serem tratados manualmente.
+## Ferramentas Utilizadas
+<div style="display: inline_block" align="center"><br>
+  
 
-**Here are some ideas to get you started:**
+<img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line-wordmark.svg" />
+          
+<img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+
+</div>
+
+## Autores
+
+- [@Edras Simões](https://github.com/edrassimoes)
+- [@Gustavo Luz](https://github.com/GustavoFLuz)
+- [@Rafael Moreira](https://github.com/vonot16)
